@@ -62,4 +62,6 @@ SAN & Productivity Sync: Restores assigned base Pal Sanity and work speed multip
 * **`[OPTIMIZED YOLO FRAMEWORK]`** — Employs custom micro-architectures that deliver lightning-fast inference times (<2ms) without reducing your active in-game frame rate (FPS).
 ---
 
-`palworld`, `palworld-sdk`, `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `computer-vision`, `object-detection` , `palworld-radar`  `palworld-breeding`  `palworld-mods` `palworld-pals` `palworld-grind` 
+`palworld`, `palworld-sdk`, `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `computer-vision`, `object-detection` , `palworld-radar`  `palworld-breeding`  `palworld-mods` `palworld-pals` `palworld-grind`
+
+<!-- update: A -->
